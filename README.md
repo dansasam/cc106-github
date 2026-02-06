@@ -3,3 +3,5 @@
 ## My name is Dan Christian Sasam
 ## 3rd year college
 ## from Davao Central College
+## Pull Request Practice
+This update was made for the pull request simulation activity.
